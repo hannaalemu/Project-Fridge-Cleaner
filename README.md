@@ -1,13 +1,8 @@
-Read me
-Great Fellows - What can I make? 
+
 	*A project to tell you what to make for dinner based off of what you have in your own fridge!
 
 Created by Eric Huang, Benjamin Clard, Hanna Alemu, & Elle Young
 ================================================================
-**Update for Monday 06.24.19:
-
-Ben overviewed full project in team powwow: 
-
 on page load FRIDGE will render the ingredients in grid list 
 on click: highlight ingredients selected 
 	-increase counter on single recipe 
@@ -48,7 +43,6 @@ All team members are responsible for their work, but this is a collaborative pro
 We resolve our conflicts through setting a timer, where both sides get 5 minutes to prove themselves, and then we vote. In the event of a tie, we will look for unbiased outside input, or flip a coin. 
 
 **=======================Reminder=======================**
-Team members should be aware when they are checking in code if they are 'off the clock'. We all need sleep and food!
 
 
 
